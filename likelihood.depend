@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1577851777 source:e:\maxlihood\likelihood\main.cpp
+	<iostream>
+	<complex>
+	<math.h>
+	<fstream>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
